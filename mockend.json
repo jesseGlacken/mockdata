@@ -1,3 +1,5 @@
 {
-  "cartedCount": "int"
+  "Message": {
+    "cartedCount": "int"
+  }
 }
